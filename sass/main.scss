@@ -1,0 +1,9 @@
+
+%type-head {
+ font: 800 52px Arial;
+ color: pink;
+}
+
+h1 {
+ @extend %type-head;
+}
